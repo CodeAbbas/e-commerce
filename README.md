@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **JavaScript, Java**
 
-- 👨‍💻 All of my projects are available at [https://abbas-uddin.netlify.app/](https://abbas-uddin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abbas-uddin.netlify.app/](https://abbas-uddin.netlify.app/#portfolio)
 
 - 📫 How to reach me **abbax.uddin@gmail.com**
 
