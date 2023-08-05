@@ -1,9 +1,9 @@
 <h1 align="center"><a href="https://abbas-uddin.netlify.app/">Abbas Uddin</a></h1>
 <h3 align="center">A passionate frontend developer from Sylhet, Bangladesh</h3>
 
--<h2> 🔭 See this project [Abbas Uddin](https://abbas-uddin.netlify.app/)</h2>
+-<h2> 🔭 See this project [E-Commerce Website](https://abbas-uddin.netlify.app/)</h2>
 
-- 👨‍💻 I’m currently learning **JavaScript, C, C++**
+- 👨‍💻 I’m currently learning **JavaScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://abbas-uddin.netlify.app/](https://abbas-uddin.netlify.app/)
 
